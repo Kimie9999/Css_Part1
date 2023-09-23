@@ -1,0 +1,32 @@
+.main {
+  display: flex;
+  background-color: rgb(228, 237, 245);
+  border-radius: 15px;
+  border: 2px solid gray;
+}
+img {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 15px;
+}
+.first,
+.second,
+.third {
+  margin: 30px;
+  border-radius: 20px;
+  background-color: rgb(158, 231, 253);
+  padding: 10px;
+  width: 350px;
+  height: 600px;
+}
+div img {
+  justify-items: center;
+  align-items: center;
+}
+.third img {
+  margin-top: 32px;
+}
+.main img {
+  margin-left: 25px;
+}
