@@ -1,0 +1,25 @@
+div {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(169, 212, 250);
+  color: blueviolet;
+  margin: 50px;
+  border-radius: 15px;
+}
+h2,
+p {
+  text-align: center;
+  padding: 10px;
+}
+section {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+body {
+  background-color: rgb(113, 193, 247);
+}
+h4 {
+  color: rgb(77, 34, 235);
+  font-weight: 10px;
+}

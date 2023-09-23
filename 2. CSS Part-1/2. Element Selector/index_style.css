@@ -1,0 +1,45 @@
+.second {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(169, 212, 250);
+  color: blueviolet;
+  margin: 50px;
+  border-radius: 15px;
+}
+section {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+h1 {
+  text-align: center;
+}
+#one {
+  color: aqua;
+  font-family: "Times New Roman", Times, serif;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(92, 173, 245);
+  color: rgb(163, 100, 223);
+  margin: 50px;
+  border-radius: 15px;
+}
+.first {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(88, 215, 247);
+  color: rgb(61, 106, 252);
+  margin: 50px;
+  border-radius: 20px;
+}
+.third {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(7, 204, 253);
+  color: rgb(11, 59, 218);
+  margin: 50px;
+  border-radius: 20px;
+}
+span {
+  color: rgb(238, 147, 29);
+}
